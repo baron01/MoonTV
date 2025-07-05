@@ -80,6 +80,18 @@
     "haohua": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
+    },
+    "feifan": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡资源"
+          },
+    "liangzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源"
+          },
+    "subo": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
   }
     
  }
